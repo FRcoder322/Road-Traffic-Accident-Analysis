@@ -38,6 +38,6 @@ b) Exploratory Data Analysis (EDA)
   c)heatmaps
   
 # Visualization & Insights
-Bar Charts, Histograms, Box Plots, and Heatmaps: Use these visualizations to reveal patterns and distributions within the data.
+Bar Charts, Histograms, Box Plots, and Heatmaps:To reveal patterns and distributions within the data.
 Line Graphs: Display trends over time, such as how the number of accidents has changed year-over-year or by month.
 Scatter Plots: Identify relationships between continuous variables, such as speed limit and accident severity.
