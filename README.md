@@ -41,3 +41,21 @@ b) Exploratory Data Analysis (EDA)
 Bar Charts, Histograms, Box Plots, and Heatmaps:To reveal patterns and distributions within the data.
 Line Graphs: Display trends over time, such as how the number of accidents has changed year-over-year or by month.
 Scatter Plots: Identify relationships between continuous variables, such as speed limit and accident severity.
+
+# GOAL
+Figure out what influences the number of accidents in different areas at different times.
+# key trends we might expect based on the dataset
+1. Accidents and Traffic Density:
+Trend: As traffic density increases, the number of accidents might increase as well due to more vehicles on the road.
+2.Accidents and Rain Intensity:
+Trend: Accidents might be more common when there is higher rain intensity because slippery roads lead to more crashes.
+3.Accidents and Urban vs. Rural Areas:
+Trend: Accidents might be more frequent in urban areas (due to higher traffic volume), while rural areas might have fewer accidents
+
+
+
+
+
+
+
+
